@@ -38,3 +38,4 @@ CREATE TABLE IF NOT EXISTS books (
 
 INSERT INTO books (title, author, image, description) VALUES 
   ('Wireless Router with AiMesh', 'ASUS RT-AX53U', 'Router.Jpeg', 'Periode promo ASUS RT-AX53U berlangsung dari 7 hingga 31 Agustus 2023, dengan garansi resmi 3 tahun dari ASUS Indonesia. Router WiFi 6 ini menawarkan kecepatan total hingga 1800Mbps, dengan 574Mbps di 2.4GHz dan 1201Mbps di 5GHz. Dilengkapi dengan teknologi MU-MIMO, OFDMA, serta 4 port Gigabit (1 WAN, 3 LAN), RT-AX53U mendukung koneksi lebih efisien dan cepat. Fitur AiProtection dan kontrol orang tua memastikan keamanan dan pengelolaan penggunaan jaringan yang optimal.'),
+  ('Home Mesh Wi-Fi 6 System', 'TP-Link Deco X10', 'TPlink.jpg', 'Wi-Fi 6 memberikan kecepatan hingga 1,500 Mbps, meningkatkan kapasitas untuk menghubungkan lebih banyak perangkat secara bersamaan, dan memperluas cakupan Wi-Fi yang lebih kuat dan seamless di seluruh rumah.'),
