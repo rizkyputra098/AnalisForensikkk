@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin - Insert Book</title>
+    <title>Admin - Produk</title>
     <!-- Importing Google Fonts and FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
@@ -165,7 +165,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <form action="" method="post" enctype="multipart/form-data">
         <!-- Title Input -->
         <div class="form-group">
-            <label for="title">Nama Alat:</label>
+            <label for="title">Nama Produk:</label>
             <input type="text" class="form-control" id="title" name="title" required>
         </div>
 
